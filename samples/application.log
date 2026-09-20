@@ -1,0 +1,20 @@
+2026-09-19 10:00:01 INFO system Application started
+2026-09-19 10:00:02 INFO auth User login successful
+2026-09-19 10:00:04 INFO database Connection established
+
+2026-09-19 10:01:07 WARN database Query response slow
+2026-09-19 10:01:09 ERROR database Connection timeout
+2026-09-19 10:01:12 INFO auth User logout successful
+
+2026-09-19 10:02:15 INFO system Worker started
+2026-09-19 10:02:18 WARN system High memory usage
+2026-09-19 10:02:21 ERROR model Model loading failed
+
+2026-09-19 10:03:05 ERROR database Connection timeout
+2026-09-19 10:03:08 ERROR database Connection timeout
+2026-09-19 10:03:11 ERROR model Model loading failed
+2026-09-19 10:03:14 ERROR database Connection timeout
+2026-09-19 10:03:17 ERROR model Model loading failed2026-09-19 10:10:01 INFO system New request received
+2026-09-19 10:10:02 ERROR database Connection timeout
+2026-09-19 10:10:01 INFO system New request received
+2026-09-20 11:20:00 ERROR database Test shutdown handling

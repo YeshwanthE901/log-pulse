@@ -1,0 +1,24 @@
+# Build artifacts
+*.o
+logpulse
+logpulse_asan
+test_parser
+
+# Temporary output
+output.json
+tests/output.json
+/tmp/
+
+# Profiling artifacts
+perf.data
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Benchmark executables
+log_generator
+lookup_benchmark

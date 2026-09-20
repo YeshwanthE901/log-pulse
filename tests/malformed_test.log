@@ -1,0 +1,5 @@
+this is not a valid log line
+2026-09-20 12:00:01 INFO system Normal message
+2026-09-20 missing fields
+2026-09-20 12:00:03 ERROR database Connection timeout
+bad

@@ -1,0 +1,5 @@
+2026-09-19 10:00:01 INFO system Application started
+THIS LINE IS BROKEN
+2026-09-19 10:00:03 ERROR database Connection timeout
+2026-09-19 10:00:04 WARN
+2026-09-19 10:00:05 INFO auth Login successful

@@ -1,0 +1,1 @@
+samples/application_10m.log filter=lfs diff=lfs merge=lfs -text
